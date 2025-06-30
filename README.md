@@ -10,9 +10,10 @@ Key Features
 - Keyword Optimization: Framework for naturally integrating job-relevant keywords
 
 ## Getting Started
-1. Head over to overleaf.com and login into your account. It's free.
-2. Use this link or download the zip file for uploading the file manually. 
-3. Edit each connection and recompile it. 
+
+- Create your Overleaf account – Head to overleaf.com and sign up for free.
+### or Import the template – Use the direct Overleaf link provided or download the zip file to upload manually
+- Customize and compile – Replace the placeholder content with your information and hit "Recompile" to see your updated resume
 
 If this template helps you land interviews, please star this repository to help other job seekers discover it! 
 Your star makes this resource more discoverable for the next job seeker who needs it. 
