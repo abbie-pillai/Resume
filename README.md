@@ -12,7 +12,7 @@ Key Features
 ## Getting Started
 
 - Create your Overleaf account – Head to overleaf.com and sign up for free.
-- Import the template – Use the direct Overleaf (https://www.overleaf.com/project/6861f313ac463a9125bb3ca4)link provided or download the zip file to upload manually
+- Import the template – Use the direct [Overleaf link](https://www.overleaf.com/project/6861f313ac463a9125bb3ca4) provided or download the zip file to upload manually
 - Customize and compile – Replace the placeholder content with your information and hit "Recompile" to see your updated resume
 
 If this template helps you land interviews, please star this repository to help other job seekers discover it! 
