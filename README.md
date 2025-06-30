@@ -1,5 +1,9 @@
 ## Resume
 ATS-Optimized LaTeX Resume Template, ATS-friendly resume template I built with LaTeX that helped me land offers at top companies during the competitive 2024 job market.
+I got this template from r/EngineeringResume but I have made some edits of my own. I had more than six years of work experience so I wrote a brief summary of what 
+I did and quanitified it. 
+I added different type of Skills section. I was aiming for Data Scientist role, Decision Scientist and Analytics role, most of these jobs description required different level of skills. 
+I added hyperlinks in my company name as it would allow recruiter to know more where I woorked at. 
 
 Key Features
 - ATS-Compatible: Includes \input{glyphtounicode} and \pdfgentounicode=1 for perfect text extraction
